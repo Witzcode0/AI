@@ -49,4 +49,6 @@
 10. Integration with AI Libraries
     - Converting NumPy arrays to TensorFlow/PyTorch tensors
     - Efficient data manipulation for machine learning models
+
+-np.where
 """
