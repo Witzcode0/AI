@@ -1,8 +1,9 @@
 """
 1. Basics of NumPy
+    - What is NumPy?
+    - Why Use NumPy?
     - Installation: pip install numpy
     - Importing NumPy: import numpy as np
-    - Creating Arrays: np.array([1, 2, 3])
     
 2. NumPy Arrays
     - Array Creation: np.array(), np.zeros(), np.ones(), np.arange(), np.linspace()
