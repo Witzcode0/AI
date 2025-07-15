@@ -1,0 +1,11 @@
+ID,Name,Age,Gender,Department,Salary,JoinDate,Rating
+1,Alice,25,Female,Sales,50000,2020-01-15,4.5
+2,Bob,28,Male,Marketing,52000,2019-03-22,4.0
+3,Charlie,30,Male,HR,NaN,2018-07-30,3.8
+4,David,24,Male,Sales,48000,2021-05-19,4.2
+5,Eva,27,Female,IT,NaN,2022-02-11,4.7
+6,Frank,NaN,Male,Marketing,53000,2020-11-03,NaN
+7,Grace,26,Female,IT,56000,2021-12-01,4.9
+8,Hank,31,Male,HR,51000,2017-08-16,3.6
+9,Ivy,29,Female,Sales,50000,2020-09-25,4.1
+10,John,28,Male,IT,57000,2019-06-14,4.3
