@@ -1,0 +1,4169 @@
+[
+    {
+        "spice_name": "Adobo, Salt-Free Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.6oz.",
+                "price": "$9.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.6oz.",
+                "price": "$9.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Ajowan Seeds",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.9oz.",
+                "price": "$7.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Allspice Berries, Ground",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.2oz.",
+                "price": "$8.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.2oz.",
+                "price": "$8.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Allspice Berries, Whole",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.5oz.",
+                "price": "$7.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "1.5oz.",
+                "price": "$7.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Amchoor Powder",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Anise Seeds",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2oz.",
+                "price": "$8.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Annato Seeds",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.7oz.",
+                "price": "$7.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Apple Pie Spice",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.1oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.1oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Argyle Street",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.2oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.2oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Asafoetida",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1.4oz.",
+                "price": "$11.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Back of the Yards Garlic Pepper",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.4oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.4oz.",
+                "price": "$9.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$20.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Baharat, Arabian Blend",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.2oz.",
+                "price": "$9.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.2oz.",
+                "price": "$9.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Basil, California",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "0.5oz.",
+                "price": "$5.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.5oz.",
+                "price": "$5.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "2 oz.",
+                "price": "$9.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Bay Leaves, Turkish",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "0.2oz.",
+                "price": "$3.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.2oz.",
+                "price": "$3.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "1 oz.",
+                "price": "$10.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Berbere, Ethiopian Blend",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.4oz.",
+                "price": "$7.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.4oz.",
+                "price": "$7.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Black Garlic Ramen Pepper",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.6oz.",
+                "price": "$14.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Bloody Mary Mate",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.9oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.9oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Bridgeport Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.7oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.7oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Brisket of Love BBQ Blend",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.8oz.",
+                "price": "$9.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.8oz.",
+                "price": "$9.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$16.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Bronzeville Rib Rub",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.7oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.7oz.",
+                "price": "$8.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$15.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cajun, Classic Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$7.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$7.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cajun, Salt-Free Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.4oz.",
+                "price": "$8.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.4oz.",
+                "price": "$8.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "California Bold Pepper Blend",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.3oz.",
+                "price": "$9.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.3oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$24.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Caraway, Whole Seeds",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.1oz.",
+                "price": "$6.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cardamom, Black Cardamom Pods",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.3oz.",
+                "price": "$11.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cardamom, Ground Seeds",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.2oz.",
+                "price": "$17.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.2oz.",
+                "price": "$17.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cardamom, Inner Seeds",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "3oz.",
+                "price": "$17.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cardamom, Whole Green Pods",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1.4oz.",
+                "price": "$14.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.4oz.",
+                "price": "$14.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Caribbean Citrus Chile Rub",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.4oz.",
+                "price": "$9.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.4oz.",
+                "price": "$9.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Carne Asada Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$9.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$9.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Celery Salt",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "4.4oz.",
+                "price": "$6.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "4.4oz.",
+                "price": "$6.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Celery, Whole Seeds",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.2oz.",
+                "price": "$5.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.2oz.",
+                "price": "$5.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Central Street Salt-Free Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.4oz.",
+                "price": "$9.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.4oz.",
+                "price": "$9.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chai Spices",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$8.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$20.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Charnushka Seeds",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.2oz.",
+                "price": "$7.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cheese Powder, White Cheddar",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2oz.",
+                "price": "$8.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$22.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chesapeake Bay Blend",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chicago Fire BBQ Rub",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.2oz.",
+                "price": "$9.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.2oz.",
+                "price": "$9.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chiles, Aji Amarillo",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.2oz.",
+                "price": "$9.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.2oz.",
+                "price": "$9.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chiles, Aleppo Peppers",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2oz.",
+                "price": "$8.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2oz.",
+                "price": "$8.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "4 oz.",
+                "price": "$11.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chiles, Ancho Ground",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$8.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$8.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$16.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chiles, Ancho Whole",
+        "variants": [
+            {
+                "packaging_type": "Bag",
+                "weight": "4 oz.",
+                "price": "$8.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chiles, Carolina Reaper",
+        "variants": [
+            {
+                "packaging_type": "Bag",
+                "weight": "0.5 oz.",
+                "price": "$13.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chiles, Cayenne",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.1oz.",
+                "price": "$7.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.1oz.",
+                "price": "$7.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chiles, Chile de Arbol",
+        "variants": [
+            {
+                "packaging_type": "Bag",
+                "weight": "2 oz.",
+                "price": "$6.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chiles, Chipotle Ground",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.3oz.",
+                "price": "$11.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.3oz.",
+                "price": "$11.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chiles, Chipotle Moritas Whole",
+        "variants": [
+            {
+                "packaging_type": "Bag",
+                "weight": "2 oz.",
+                "price": "$8.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chiles, Crushed Red Flakes",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1.3oz.",
+                "price": "$6.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.3oz.",
+                "price": "$6.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "4 oz.",
+                "price": "$12.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chiles, Gochugaru Chile",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.9oz.",
+                "price": "$7.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "1.9oz.",
+                "price": "$7.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chiles, Guajillo Ground",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.2oz.",
+                "price": "$9.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.2oz.",
+                "price": "$9.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chiles, Guajillo Whole",
+        "variants": [
+            {
+                "packaging_type": "Bag",
+                "weight": "4 oz.",
+                "price": "$8.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chiles, Habanero Ground",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.4oz.",
+                "price": "$14.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.4oz.",
+                "price": "$14.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chiles, Kashmiri",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.4oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.4oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chiles, Mulato",
+        "variants": [
+            {
+                "packaging_type": "Bag",
+                "weight": "4 oz.",
+                "price": "$9.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chiles, New Mexican Red Ground",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.2oz.",
+                "price": "$9.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$9.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chiles, Pasilla",
+        "variants": [
+            {
+                "packaging_type": "Bag",
+                "weight": "4 oz.",
+                "price": "$13.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chiles, Tien Tsin",
+        "variants": [
+            {
+                "packaging_type": "Bag",
+                "weight": "4 oz.",
+                "price": "$7.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chiles, Urfa Biber",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2oz.",
+                "price": "$9.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2oz.",
+                "price": "$9.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chili Con Carne Blend",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$9.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$9.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chili Powder, Medium",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.6oz.",
+                "price": "$8.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.6oz.",
+                "price": "$8.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$18.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chili Powder, Mild",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.6oz.",
+                "price": "$8.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.6oz.",
+                "price": "$8.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$18.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chinese Five Spice",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.8oz.",
+                "price": "$9.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "1.8oz.",
+                "price": "$9.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chipotle Garlic BBQ Blend",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.4oz.",
+                "price": "$9.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.4oz.",
+                "price": "$9.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$22.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chives",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "0.2oz.",
+                "price": "$6.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.2oz.",
+                "price": "$6.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Chorizo Mexican Sausage Blend",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$8.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$8.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cinnamon Maple Sugar",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "3.4oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3.4oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cinnamon, Ceylon 5\" Quills",
+        "variants": [
+            {
+                "packaging_type": "Bag",
+                "weight": "4 oz.",
+                "price": "$16.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cinnamon, Ceylon Ground",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1.5oz.",
+                "price": "$11.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.5oz.",
+                "price": "$11.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "4 oz.",
+                "price": "$18.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cinnamon, Korintje 4\" Sticks",
+        "variants": [
+            {
+                "packaging_type": "Bag",
+                "weight": "4 oz.",
+                "price": "$9.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cinnamon, Korintje Ground",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.1oz.",
+                "price": "$7.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.1oz.",
+                "price": "$7.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "4 oz.",
+                "price": "$10.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cinnamon, Saigon Ground",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1.8oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.8oz.",
+                "price": "$8.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$23.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Classic Chip Dip Mix",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "3.2oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3.2oz.",
+                "price": "$8.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$14.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Classic French Vinaigrette Mix",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.3oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.3oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Classic Italian Dressing Mix",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.9oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.9oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cloves, Ground",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.3oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.3oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cloves, Hand Select",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1.6oz.",
+                "price": "$9.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.6oz.",
+                "price": "$9.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cocoa Coffee Sugar With Intelligentsia Black Cat Espresso",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "3.3oz.",
+                "price": "$10.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cocoa Nibs",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.2oz.",
+                "price": "$9.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.2oz.",
+                "price": "$9.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cocoa Powder, Dutched",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.1oz.",
+                "price": "$6.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$14.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cocoa, Hot Cocoa Mix",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3.4oz.",
+                "price": "$6.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$8.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cocoa, Masala Hot Cocoa",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.8oz.",
+                "price": "$8.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$12.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cocoa, Mexican Hot Cocoa",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3.6oz.",
+                "price": "$8.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$12.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Coffee Cake Sugar With Intelligentsia Black Cat Espresso",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$10.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Coriander, Ground Moroccan Seeds",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.8oz.",
+                "price": "$7.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "1.8oz.",
+                "price": "$7.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Coriander, Indian Seeds",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1.2oz.",
+                "price": "$7.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.2oz.",
+                "price": "$7.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Coriander, Moroccan Seeds",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.4oz.",
+                "price": "$5.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "1.4oz.",
+                "price": "$5.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "CrushGrind Pepper Mill",
+        "variants": [
+            {
+                "price": "$45.00"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cumin, Ground Seeds",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2oz.",
+                "price": "$7.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2oz.",
+                "price": "$7.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$17.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Cumin, Whole Seeds",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.1oz.",
+                "price": "$7.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.1oz.",
+                "price": "$7.49"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$18.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Curry, Garam Masala Ground",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.8oz.",
+                "price": "$9.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "1.8oz.",
+                "price": "$9.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Curry, Sweet",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Curry, Thai Red",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.2oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.2oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Curry, Vadouvan",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.2oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.2oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Devilish Dill Egg Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.1oz.",
+                "price": "$10.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Dill Weed",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "0.8oz.",
+                "price": "$6.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.8oz.",
+                "price": "$6.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "English Prime Rib Rub",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3.2oz.",
+                "price": "$7.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "3.2oz.",
+                "price": "$7.99"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$17.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Epice Spice",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.3oz.",
+                "price": "$12.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Espresso Powder",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1.2oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.2oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Everything Bagel Blend",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$8.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$8.49"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$16.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Extract, Almond",
+        "variants": [
+            {
+                "packaging_type": "Bottle",
+                "weight": "4 fl. oz.",
+                "price": "$11.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Extract, Bergamot",
+        "variants": [
+            {
+                "packaging_type": "Bottle",
+                "weight": "4 fl. oz.",
+                "price": "$29.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Extract, Chocolate",
+        "variants": [
+            {
+                "packaging_type": "Bottle",
+                "weight": "4 fl. oz.",
+                "price": "$18.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Extract, Lemon",
+        "variants": [
+            {
+                "packaging_type": "Bottle",
+                "weight": "4 fl. oz.",
+                "price": "$11.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Extract, Maple",
+        "variants": [
+            {
+                "packaging_type": "Bottle",
+                "weight": "4 fl. oz.",
+                "price": "$17.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Extract, Natural Butter Flavor",
+        "variants": [
+            {
+                "packaging_type": "Bottle",
+                "weight": "4 fl. oz.",
+                "price": "$17.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Extract, Peppermint",
+        "variants": [
+            {
+                "packaging_type": "Bottle",
+                "weight": "4 fl. oz.",
+                "price": "$13.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Fennel Pollen",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "0.25oz.",
+                "price": "$12.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Fennel, Whole Seeds",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1.9oz.",
+                "price": "$5.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.9oz.",
+                "price": "$5.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Fenugreek Leaves",
+        "variants": [
+            {
+                "packaging_type": "Bag",
+                "weight": "1 oz.",
+                "price": "$6.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Fenugreek, Whole Seeds",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3.2oz.",
+                "price": "$6.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Fines Herbes",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.4oz.",
+                "price": "$6.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Five Chile Fever",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1.9oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.9oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Florida Citrus Pepper Blend",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Friday Fish Fry Blend",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.6oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.6oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Fried Chicken Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "3.3oz.",
+                "price": "$8.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3.3oz.",
+                "price": "$8.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$14.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Garden Dill Dip Mix",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.8oz.",
+                "price": "$8.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "1.8oz.",
+                "price": "$8.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Garlic Salt",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.7oz.",
+                "price": "$6.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.7oz.",
+                "price": "$6.99"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$12.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Garlic, Black Garlic Puree",
+        "variants": [
+            {
+                "price": "$22.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Garlic, Granulated",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.7oz.",
+                "price": "$7.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.7oz.",
+                "price": "$7.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$14.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Garlic, Minced",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$7.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Garlic, Roasted Granulated",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.6oz.",
+                "price": "$7.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.6oz.",
+                "price": "$7.99"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$17.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Ginger, Crystallized Nibs",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$8.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$18.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Ginger, Crystallized Slices",
+        "variants": [
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$11.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Ginger, Ground",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2oz.",
+                "price": "$7.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2oz.",
+                "price": "$7.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "4 oz.",
+                "price": "$10.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Gingersnap Cookie Mix",
+        "variants": [
+            {
+                "price": "$12.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Golden Herb Salt",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.8oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.8oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Grains of Paradise",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "3oz.",
+                "price": "$14.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3oz.",
+                "price": "$14.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Great North Maple Garlic Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "3.1oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3.1oz.",
+                "price": "$9.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$16.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Greektown Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$8.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$18.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Green Chile Ranch Dressing and Dip Mix",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.6oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.6oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Green Chimichurri Mix",
+        "variants": [
+            {
+                "price": "$7.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Green Goddess Dressing Mix",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1.2oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.2oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Green Sichuan Peppercorns",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.9oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Herbes de Provence",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "0.8oz.",
+                "price": "$8.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.8oz.",
+                "price": "$8.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "2 oz.",
+                "price": "$11.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Homestyle Buttermilk Ranch Dressing Mix",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.8oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.8oz.",
+                "price": "$8.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$16.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Homestyle Herbs Soup Blend",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.5oz.",
+                "price": "$7.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "0.5oz.",
+                "price": "$7.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Italian Herb Blend",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "0.6oz.",
+                "price": "$5.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.6oz.",
+                "price": "$5.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "2 oz.",
+                "price": "$11.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Italian Steak Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.8oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.8oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Jamaican Jerk Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.3oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.3oz.",
+                "price": "$8.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$18.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Juniper Berries",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.5oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Kansas City Barbecue Blend",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3.1oz.",
+                "price": "$8.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "3.1oz.",
+                "price": "$8.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Kimchi Seasoning Korean Blend",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Lakeshore Shallot & Herb",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.2oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.2oz.",
+                "price": "$9.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$22.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Lavender, Ultra-Blue Select",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "0.5oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.5oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Lemon Pepper Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Lemon Zest",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1.9oz.",
+                "price": "$11.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Little Italy Herb Blend",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "0.8oz.",
+                "price": "$7.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.7oz.",
+                "price": "$7.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "2 oz.",
+                "price": "$11.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Louisiana Creole Blend",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.8oz.",
+                "price": "$8.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.8oz.",
+                "price": "$8.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Mace, Blade",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "0.5oz.",
+                "price": "$7.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Mace, Ground",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.3oz.",
+                "price": "$16.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Maple Butter Popcorn Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "4oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "4oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Maple Sugar",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "3.6oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3.6oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Marjoram",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "0.5oz.",
+                "price": "$5.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Marrakesh Market Blend",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.4oz.",
+                "price": "$9.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.4oz.",
+                "price": "$9.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Mediterranean Herb Blend",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1.6oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.6oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Mexican Chile Lime Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.6oz.",
+                "price": "$8.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.6oz.",
+                "price": "$8.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Milwaukee Ave Smokehouse Rub",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "3.1oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3.1oz.",
+                "price": "$8.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$15.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Monosodium Glutamate",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3.4oz.",
+                "price": "$6.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "3.4oz.",
+                "price": "$6.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Morning Pick-Me-Ups Bundle",
+        "variants": [
+            {
+                "price": "$36.00"
+            }
+        ]
+    },
+    {
+        "spice_name": "Mulling Spices",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.9oz.",
+                "price": "$9.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "1.9oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$25.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Mushrooms, Porcini Powder",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2oz.",
+                "price": "$14.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2oz.",
+                "price": "$14.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Mushrooms, Shiitake",
+        "variants": [
+            {
+                "packaging_type": "Bag",
+                "weight": "2 oz.",
+                "price": "$14.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Mustard, Brown Seed",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3.2oz.",
+                "price": "$6.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "3.2oz.",
+                "price": "$6.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Mustard, Medium Powder",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2oz.",
+                "price": "$5.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2oz.",
+                "price": "$5.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Mustard, Yellow Seed",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "3.1oz.",
+                "price": "$6.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3.1oz.",
+                "price": "$6.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Nutmeg, Ground",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.4oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.4oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Nutmeg, Whole",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "0.8oz.",
+                "price": "$8.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.8oz.",
+                "price": "$8.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Oaxacan Ancho Coffee Rub",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.6oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.6oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Oktoberfest Bavarian Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.7oz.",
+                "price": "$8.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "1.7oz.",
+                "price": "$8.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Old World Italian Spicy Fennel Herb Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Onion, Toasted Granulated",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.6oz.",
+                "price": "$6.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.6oz.",
+                "price": "$6.99"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$13.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Onion, White Granulated",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.7oz.",
+                "price": "$6.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.7oz.",
+                "price": "$6.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$15.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Onion, White Minced",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.1oz.",
+                "price": "$5.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$10.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Orange Zest",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$9.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Oregano, Greek",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "0.7oz.",
+                "price": "$5.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.7oz.",
+                "price": "$5.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "2 oz.",
+                "price": "$11.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Oregano, Mexican Broken Leaf",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "0.4oz.",
+                "price": "$5.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.4oz.",
+                "price": "$5.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "2 oz.",
+                "price": "$11.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Paprika, Hungarian Sweet",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.4oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.4oz.",
+                "price": "$8.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$19.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Paprika, Smoked Hot",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.1oz.",
+                "price": "$9.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.1oz.",
+                "price": "$9.49"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$20.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Paprika, Smoked Sweet",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.2oz.",
+                "price": "$9.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.2oz.",
+                "price": "$9.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$20.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Parisian Shallot Herb Blend",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1.2oz.",
+                "price": "$10.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.2oz.",
+                "price": "$10.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Parsley Flakes, Freeze Dried",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "0.2oz.",
+                "price": "$6.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.2oz.",
+                "price": "$6.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "1 oz.",
+                "price": "$13.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Pepper & Shallot Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.2oz.",
+                "price": "$9.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.2oz.",
+                "price": "$9.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Pepper, Coarse Grind",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.2oz.",
+                "price": "$8.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.2oz.",
+                "price": "$8.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$18.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Pepper, Cracked Grind",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.8oz.",
+                "price": "$8.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.8oz.",
+                "price": "$8.49"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$16.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Pepper, Extra Coarse Grind",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.6oz.",
+                "price": "$8.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.6oz.",
+                "price": "$8.49"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$18.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Pepper, Fine Grind",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.1oz.",
+                "price": "$6.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.1oz.",
+                "price": "$6.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$16.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Pepper, White Ground",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2oz.",
+                "price": "$10.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2oz.",
+                "price": "$10.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Peppercorns Royale Blend",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.3oz.",
+                "price": "$10.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Peppercorns, European Blend",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$9.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$22.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Peppercorns, Green",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Peppercorns, Kampot Black",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.4oz.",
+                "price": "$13.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.4oz.",
+                "price": "$13.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$29.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Peppercorns, Kampot Red",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.4oz.",
+                "price": "$17.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.4oz.",
+                "price": "$17.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Peppercorns, Long",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2oz.",
+                "price": "$14.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Peppercorns, Pink",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1.3oz.",
+                "price": "$9.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Peppercorns, Sansho",
+        "variants": [
+            {
+                "packaging_type": "Bag in a Jar",
+                "weight": "0.25 oz.",
+                "price": "$9.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Peppercorns, Sichuan",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "0.9oz.",
+                "price": "$10.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.9oz.",
+                "price": "$10.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Peppercorns, Tellicherry",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.3oz.",
+                "price": "$7.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.3oz.",
+                "price": "$7.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$17.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Peppercorns, White",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.6oz.",
+                "price": "$10.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$24.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Peri Peri Blend",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.8oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.8oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Pickling Spices",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.8oz.",
+                "price": "$7.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$16.95"
+            }
+        ]
+    },
+    {
+        "spice_name": "Pilsen Spicy Adobo Blend",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3oz.",
+                "price": "$8.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "3oz.",
+                "price": "$8.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Pizza Seasoning Tavern-Style Topper",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Poppy Seeds",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.7oz.",
+                "price": "$7.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.7oz.",
+                "price": "$7.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Poultry Brining Blend",
+        "variants": [
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "16 oz.",
+                "price": "$18.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Poultry Stuffing Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1.2oz.",
+                "price": "$7.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.2oz.",
+                "price": "$7.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Pretzel Salt",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1/2 Cup",
+                "price": "$7.95"
+            }
+        ]
+    },
+    {
+        "spice_name": "Pumpkin Spice",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.2oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.2oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Pumpkin Spice Sugar",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3.1oz.",
+                "price": "$9.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "3.1oz.",
+                "price": "$9.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Ras El Hanout",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.3oz.",
+                "price": "$10.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.3oz.",
+                "price": "$10.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Raspberry Margarita Salt",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Red Harissa Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.4oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.4oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Rodney Scott - Black Chile Coffee Cocoa Rub",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$11.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Rodney Scott - Ginger Chile Espresso Maple Rub",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "3.1oz.",
+                "price": "$11.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Rodney Scott - Green Chile Lime Citrus Rub",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$11.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Rodney Scott - Porcini Garlic Herb Pepper Rub",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$11.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Rodney Scott - Smoky Sweet Chile Hickory Rub",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.8oz.",
+                "price": "$11.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Rosemary, Cracked",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1.3oz.",
+                "price": "$6.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.3oz.",
+                "price": "$6.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Saffron, Coupe Grade Spanish",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "0.04oz.",
+                "price": "$16.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Saffron, Superior Grade Spanish",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1 gm.",
+                "price": "$14.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Sage, Rubbed",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "0.7oz.",
+                "price": "$6.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.7oz.",
+                "price": "$6.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Salmon Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.3oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.3oz.",
+                "price": "$9.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$24.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Salt, Diamond Kosher",
+        "variants": [
+            {
+                "price": "$14.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Salt, Hawaiian Black",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "4.8oz.",
+                "price": "$10.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "4.8oz.",
+                "price": "$10.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Salt, Hawaiian Red",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "5.1oz.",
+                "price": "$10.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "5.1oz.",
+                "price": "$10.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Salt, Hawaiian Smoked",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "4.9oz.",
+                "price": "$13.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "4.9oz.",
+                "price": "$13.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Salt, Hickory Smoke",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "4.3oz.",
+                "price": "$7.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Salt, Himalayan Coarse",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "5.1oz.",
+                "price": "$9.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "5.1oz.",
+                "price": "$9.49"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "16 oz.",
+                "price": "$20.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Salt, Himalayan Fine",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "5.1oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "5.1oz.",
+                "price": "$9.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "16 oz.",
+                "price": "$21.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Salt, Maldon Smoked",
+        "variants": [
+            {
+                "price": "$11.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Salt, Maldon Traditional",
+        "variants": [
+            {
+                "price": "$11.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Salt, Porcini Sea Salt",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3.4oz.",
+                "price": "$10.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "3.4oz.",
+                "price": "$10.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Salt, Portuguese Saltcream",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3.9oz.",
+                "price": "$9.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "16 oz.",
+                "price": "$24.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Salt, Truffle White",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.3oz.",
+                "price": "$31.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Sandwich Hero Classic Sub Topper",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1.8oz.",
+                "price": "$9.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.8oz.",
+                "price": "$9.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Savory Herb & Vegetable",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.2oz.",
+                "price": "$9.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.2oz.",
+                "price": "$9.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Savory, Summer",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1oz.",
+                "price": "$7.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Scallions",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.2oz.",
+                "price": "$5.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Sea Salt, Coarse",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "5.3oz.",
+                "price": "$7.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "5.3oz.",
+                "price": "$7.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "16 oz.",
+                "price": "$15.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Sea Salt, Fine",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "4.7oz.",
+                "price": "$7.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "4.7oz.",
+                "price": "$7.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "16 oz.",
+                "price": "$15.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Sesame, Black Seeds",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.1oz.",
+                "price": "$7.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.1oz.",
+                "price": "$7.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Sesame, Toasted Seeds",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$5.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$5.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Sesame, White Seeds",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.4oz.",
+                "price": "$6.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.4oz.",
+                "price": "$6.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Shallots",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "0.5oz.",
+                "price": "$8.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.5oz.",
+                "price": "$8.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Shawarma Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.1oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.1oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Shichimi Togarashi",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.2oz.",
+                "price": "$12.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Sichuan Chile BBQ Rub",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.7oz.",
+                "price": "$12.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Sichuan Chili Oil Crunch Mix",
+        "variants": [
+            {
+                "price": "$8.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Sizzlin' Fajita Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Spice Bundle",
+        "variants": [
+            {
+                "price": "$1.00"
+            }
+        ]
+    },
+    {
+        "spice_name": "Star Anise, Broken Pieces",
+        "variants": [
+            {
+                "packaging_type": "Bag",
+                "weight": "4 oz.",
+                "price": "$9.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Steakhouse Smoke Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "3.3oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3.3oz.",
+                "price": "$8.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$13.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Sumac",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.4oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.4oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Taco Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.7oz.",
+                "price": "$7.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.7oz.",
+                "price": "$7.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$16.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Tandoori Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Tarragon",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "0.5oz.",
+                "price": "$7.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.5oz.",
+                "price": "$7.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Taylor Street Garlic & Herb",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.3oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.3oz.",
+                "price": "$9.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$24.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "The House Blend Beef All-Purpose Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.7oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.7oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "The House Blend Chicken All-Purpose Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.3oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.3oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "The House Blend Fish All-Purpose Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.2oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.2oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "The House Blend Seasoned Salt",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "The House Blend Turkey",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.9oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.9oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "The House Blend Vegetable All-Purpose Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.8oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.8oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Thyme, French",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "0.8oz.",
+                "price": "$5.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.8oz.",
+                "price": "$5.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Thyme, Mediterranean Broken Leaf",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "0.8oz.",
+                "price": "$7.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "0.8oz.",
+                "price": "$7.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Toasted Onion Dip",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.7oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.7oz.",
+                "price": "$8.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Tomato Powder",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "3.5oz.",
+                "price": "$9.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Trinidad Lemon Garlic Blend",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.8oz.",
+                "price": "$9.29"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "2.8oz.",
+                "price": "$9.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Turmeric",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1.7oz.",
+                "price": "$6.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.7oz.",
+                "price": "$6.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$15.49"
+            }
+        ]
+    },
+    {
+        "spice_name": "Tuscan Olive Oil Seasoning",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.4oz.",
+                "price": "$9.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.4oz.",
+                "price": "$9.29"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$19.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Ukrainian Village Blend",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.8oz.",
+                "price": "$8.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.8oz.",
+                "price": "$8.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$17.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Vanilla Bean Paste",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1/2 Cup",
+                "price": "$29.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Vanilla Bean Sugar",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "3.2oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3.2oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Vanilla Beans, Madagascar",
+        "variants": [
+            {
+                "packaging_type": "Bean",
+                "weight": "1 count",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Bean",
+                "weight": "3 count",
+                "price": "$24.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Vanilla Beans, Tahitian",
+        "variants": [
+            {
+                "packaging_type": "Bean",
+                "weight": "1 count",
+                "price": "$19.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Vanilla Extract, Madagascar Double Strength",
+        "variants": [
+            {
+                "packaging_type": "Bottle",
+                "weight": "4 fl. oz.",
+                "price": "$44.99"
+            },
+            {
+                "packaging_type": "Bottle",
+                "weight": "8 fl. oz.",
+                "price": "$84.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Vanilla Extract, Mexican",
+        "variants": [
+            {
+                "packaging_type": "Bottle",
+                "weight": "4 fl. oz.",
+                "price": "$29.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Vanilla Extract, Single Strength Madagascar",
+        "variants": [
+            {
+                "packaging_type": "Bottle",
+                "weight": "4 fl. oz.",
+                "price": "$29.99"
+            },
+            {
+                "packaging_type": "Bottle",
+                "weight": "8 fl. oz.",
+                "price": "$54.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Vanilla Extract, Tahitian",
+        "variants": [
+            {
+                "packaging_type": "Bottle",
+                "weight": "4 fl. oz.",
+                "price": "$31.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Vanilla Lavender Sugar",
+        "variants": [
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3.1oz.",
+                "price": "$9.79"
+            },
+            {
+                "packaging_type": "Jar",
+                "weight": "3.1oz.",
+                "price": "$9.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Vanilla Spiced Sugar",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "3.3oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "3.3oz.",
+                "price": "$9.79"
+            }
+        ]
+    },
+    {
+        "spice_name": "Virtual Gift Card",
+        "variants": [
+            {
+                "price": "$25.00"
+            },
+            {
+                "price": "$50.00"
+            },
+            {
+                "price": "$100.00"
+            },
+            {
+                "price": "$150.00"
+            }
+        ]
+    },
+    {
+        "spice_name": "Vulcan's Fire Salt",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$9.99"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.5oz.",
+                "price": "$9.79"
+            },
+            {
+                "packaging_type": "Bag",
+                "weight": "8 oz.",
+                "price": "$19.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "World's Fair BBQ Rub",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.7oz.",
+                "price": "$9.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "2.7oz.",
+                "price": "$9.29"
+            }
+        ]
+    },
+    {
+        "spice_name": "Yuzu Kosho Powder",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "2.5oz.",
+                "price": "$14.99"
+            }
+        ]
+    },
+    {
+        "spice_name": "Za'atar",
+        "variants": [
+            {
+                "packaging_type": "Jar",
+                "weight": "1.6oz.",
+                "price": "$9.49"
+            },
+            {
+                "packaging_type": "Flatpack",
+                "weight": "1.6oz.",
+                "price": "$9.29"
+            }
+        ]
+    }
+]
